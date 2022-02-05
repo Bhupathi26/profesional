@@ -1,3 +1,3 @@
 # profesional
 
-This is for testing for practice purpose ..!
+This is for testing for practicing purpose ..!
